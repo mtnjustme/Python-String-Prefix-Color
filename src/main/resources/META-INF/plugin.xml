@@ -1,6 +1,6 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>org.jetbrains.plugins.py_str_prefix_color</id>
+    <id>mtnjustme.plugins.py_str_prefix_color</id>
     <name>Python String Prefix Color</name>
     <version>1.0.0</version>
     <vendor>mtnjustme</vendor>
@@ -13,3 +13,4 @@
         <annotator language="Python" implementationClass="org.jetbrains.plugins.py_str_prefix_color.annotator"/>
     </extensions>
 </idea-plugin>
+
