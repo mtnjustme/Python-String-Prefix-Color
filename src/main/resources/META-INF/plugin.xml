@@ -2,15 +2,13 @@
 <idea-plugin>
     <id>mtnjustme.plugins.py_str_prefix_color</id>
     <name>Python String Prefix Color</name>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
     <vendor>mtnjustme</vendor>
 
     <depends>com.intellij.modules.platform</depends>
-    <depends>PythonCore</depends>
 
     <extensions defaultExtensionNs="com.intellij">
         <colorSettingsPage implementation="org.jetbrains.plugins.py_str_prefix_color.color_settings_page"/>
         <annotator language="Python" implementationClass="org.jetbrains.plugins.py_str_prefix_color.annotator"/>
     </extensions>
 </idea-plugin>
-
