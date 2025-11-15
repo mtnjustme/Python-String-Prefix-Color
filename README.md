@@ -13,7 +13,7 @@
 <!-- Plugin description -->
 **Python String Prefix Color** is PyCharm Community plugin that adds the functionality to colorize Python string prefixes.
 
-To customize the python string prefix color, go to Settings -> Editor -> Color Scheme -> User Defined -> Python: String Prefix.
+To customize the python string prefix color, go to Settings -> Editor -> Color Scheme -> Custom -> Python: String Prefix.
 <!-- Plugin description end -->
 
 If you're still not quite sure what this is all about, read our introduction: [What is the IntelliJ Platform?][docs:intro]
@@ -618,4 +618,3 @@ That approach gives more possibilities for testing and debugging pre-releases, f
 [keep-a-changelog-how]: https://keepachangelog.com/en/1.0.0/#how
 [semver]: https://semver.org
 [xpath]: https://www.w3.org/TR/xpath-21/
-
