@@ -11,7 +11,7 @@ import com.intellij.openapi.editor.colors.TextAttributesKey
 
 import javax.swing.Icon
 
-val category_name = "User Defined"
+val category_name = "Custom"
 val category_entry_name = "Python: String Prefix"
 
 fun tag_text(tag: String, text: String): String
