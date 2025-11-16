@@ -10,6 +10,12 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [1.0.3] - 2025-11-16
+
+### Added
+- Updated README.md, added images as well.
+- Updated CHANGELOG.md (small changes).
+
 ## [1.0.2] - 2025-11-15
 
 ### Added
