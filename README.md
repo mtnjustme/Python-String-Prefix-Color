@@ -6,7 +6,7 @@
 To customize the Python string prefix color, go to Settings -> Editor -> Color Scheme -> Custom -> Python: String Prefix.
 <!-- Plugin description end -->
 
-## Screenshot
+## Screenshots
 
 ### Annotator:
 ![Annotator](images/annotator.png)
@@ -33,3 +33,4 @@ Or from Settings -> Plugins -> Marketplace (search for Python String Prefix Colo
 After installing the plugin click on **Apply**.
 
 The color settings page now appears in Settings -> Editor -> Color Scheme -> Custom.
+
