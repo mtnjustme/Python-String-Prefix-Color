@@ -5,7 +5,8 @@ All notable changes to this project will be documented in this file.
 ## [Unreleased]
 
 ### Added
-- Removed PythonCore dependency, changed the category name from User Defined to Custom.
+- Updated README.md, added images as well.
+- Updated CHANGELOG.md (small changes).
 
 ---
 
